@@ -24,13 +24,13 @@ A simple web application for validating US telephone numbers. Users can enter a 
 
 3. Use the input field to enter a phone number and check its validity.
 
-#Usage
+## Usage
 
 - Enter a phone number in the input field.
 - Click the "Check" button to validate the number.
 - If the num#ber is valid, a confirmation message will be displayed. If invalid, an error message will appear.
 - Use the "Clear" button to reset the form.
 
-##Contributing
+## Contributing
 
 Contributions are welcome! If you have suggestions for improvements or new features, please create an issue or submit a pull request.
